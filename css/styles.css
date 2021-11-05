@@ -1,0 +1,16 @@
+
+
+.carousel-block{
+  margin: 5rem 10rem;
+}
+.carousel-item {
+  object-fit: cover;
+}
+.carousel-inner {
+  30rem;
+}
+.footer {
+  background-color: #000;
+  color: #ffffff;
+  padding: 32px;
+}
